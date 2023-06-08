@@ -33,6 +33,7 @@ class ArticlesController extends GetxController {
       EasyLoading.dismiss();
       update();
     }, onError: (appResponse) {
+      articles = [];
       log('${appResponse?.data}');
       EasyLoading.dismiss();
       update();
