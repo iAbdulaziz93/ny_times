@@ -14,7 +14,7 @@ This project is created for personal use only to practice Flutter.
   5. ResponsiveBuilder to control the sizing for different devices and platforms if needed later.
 
 * How to run the project?
-  - Note that, you must create your own application here: https://developer.nytimes.com/, enable the required API (Most Popular API), and then get your own API key and paste it in the Constants class (apiKey).
+  * Note that, you must create your own application here: https://developer.nytimes.com/, enable the required API (Most Popular API), and then get your own API key and paste it in the Constants class (apiKey).
 
   1. Clone the source code using Git into your IDE, ex: Android Studio.
   2. After cloning, install the required libraries in the project (Your IDE should take care of this step).
