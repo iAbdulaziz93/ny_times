@@ -12,6 +12,7 @@ This project is created for personal use only to practice Flutter.
   3. Manual JSON decoding.
   4. EasyLoading to show a progress bar.
   5. ResponsiveBuilder to control the sizing for different devices and platforms if needed later.
+  6. mockito for unit testing.
 
 * How to run the project?
   - Note: You must create your own application here: https://developer.nytimes.com/, enable the required API (Most Popular API), and then get your own API key and paste it in the Constants class (apiKey).<br><br>
